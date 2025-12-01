@@ -1,9 +1,7 @@
 """
-Title: OCR Neural Network from scratch
-Author: Abhinav Thukral
 Language: Python
 Dataset: MNIST
-Description: Implementing a simpler, more readable version of OCR Neural Network from scratch to teach beginners. 
+
 """
 
 import pandas as pd
